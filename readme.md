@@ -142,4 +142,3 @@ Change 8000 to whatever you want.
 
 [MIT License](https://github.com/ourcade/phaser3-typescript-parcel-template/blob/master/LICENSE)
 # Juego-TypeScript-Runner
-# Juego-Typescript
