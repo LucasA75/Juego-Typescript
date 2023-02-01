@@ -1,3 +1,5 @@
+# Juego-TypeScript-Runner
+Juego hecho en Phaser3 con typescript 
 # 🚨 NOTE 🚨
 **October 2022**
 
@@ -141,4 +143,4 @@ Change 8000 to whatever you want.
 ## License
 
 [MIT License](https://github.com/ourcade/phaser3-typescript-parcel-template/blob/master/LICENSE)
-# Juego-TypeScript-Runner
+
