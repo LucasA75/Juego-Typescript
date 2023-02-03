@@ -1,5 +1,5 @@
 # Juego-TypeScript-Runner
-Juego hecho en Phaser3 con typescript 
+Juego hecho en Phaser3 con typescript - Juego Tutorial, Lamentablemente no pude subirlo a una pagina, nose supera mis conocimientos actuales, asi que para probarlo ahi que instalar node.js, ejecutar npm install en la carpeta cuando la descargan y ejecutar npm start para que el juego empieze.... Lamento eso :(
 # 🚨 NOTE 🚨
 **October 2022**
 
